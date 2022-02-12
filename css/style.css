@@ -1,0 +1,28 @@
+/*--------------- Nav Section ------------------*/
+
+.nav-section .nav-link {
+    color: white !important;
+}
+
+.nav-section .nav-link:hover {
+    background-color: grey !important;
+}
+
+.bg-section {
+    margin-top: 250px !important;
+}
+
+
+/*-------------- BG Section ---------------*/
+
+.main {
+    background: url(../images/pay1.jpg);
+    background-repeat: no-repeat;
+    height: auto;
+    background-size: cover;
+}
+
+.bg-section .card {
+    padding: 11px;
+    border-radius: 11px;
+}
